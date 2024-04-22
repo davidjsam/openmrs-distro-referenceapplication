@@ -287,7 +287,7 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                     "fileUris": [
-                        "https://raw.githubusercontent.com/davidjsam/azure-openMRS/main/all-in-one/install.sh"
+                        "https://raw.githubusercontent.com/davidjsam/openmrs-distro-referenceapplication/install.sh"
                     ]
                 },
                 "protectedSettings": {
